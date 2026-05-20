@@ -12,7 +12,7 @@
 [▶ View Gameplay Screenshot](https://github.com/Chandan-Baskey/G6-SaveFuture/blob/4fdd91c2778ca0e04b6994404ba588217d9b57e8/Game%20View.jpg) · [📂 Browse Code](https://github.com/Chandan-Baskey/G6-SaveFuture) · [🐛 Report Bug](https://github.com/Chandan-Baskey/G6-SaveFuture/issues)
 
 </div>
-
+![image alt](https://github.com/Chandan-Baskey/SaveFuture-2dGame/blob/ac0e509bcd78b6d6122453bf1601dae654e62ecf/Game%20View.jpg)
 ---
 
 ## 📖 Table of Contents
