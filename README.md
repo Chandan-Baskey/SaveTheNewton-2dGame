@@ -13,7 +13,6 @@
 
 </div>
 ![image alt](https://github.com/Chandan-Baskey/SaveFuture-2dGame/blob/ac0e509bcd78b6d6122453bf1601dae654e62ecf/Game%20View.jpg)
----
 
 ## 📖 Table of Contents
 
