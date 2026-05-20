@@ -1,4 +1,4 @@
-# 🌿 Save Future — 2D Platformer Game
+# Save Future — 2D Platformer Game
 
 <div align="center">
 
